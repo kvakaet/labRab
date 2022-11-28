@@ -3,4 +3,8 @@ def readNumbers():
     return a, b
 
 
+def readOperation():
+    operator = input()
+    return operator
+
 
